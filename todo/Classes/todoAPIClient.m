@@ -1,7 +1,7 @@
 #import "todoAPIClient.h"
 #import "AFJSONRequestOperation.h"
 
-static NSString * const ktodoAPIBaseURLString = @"<# API Base URL #>";
+static NSString * const ktodoAPIBaseURLString = @"http://localhost:5000/";
 
 @implementation todoAPIClient
 
